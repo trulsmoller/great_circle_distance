@@ -29,12 +29,12 @@ The result is printed to the command line and will contain:
 
 ### Running the Program
 
-Run one of the following commands in the root directory:
+Run from the root directory:
 
 ```python
 python main.py
 ```
-OR
+or
 
 ```python
 python main.py 10

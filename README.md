@@ -40,6 +40,6 @@ or
 python main.py 10
 ```
 
-In the first command the locations will be the ten REAL locations in the file ´places.csv´.
+With the first command the locations will be the ten REAL locations in the file ´places.csv´.
 
-In the second command generic places randomly located around the Earth will be generated. The number of places is based on the input argument and can be chosen freely, but he minimum allowed is 2.
+With the second command generic places randomly located around the Earth will be generated. The number of places is based on the input argument and can be chosen freely, but he minimum allowed is 2.
